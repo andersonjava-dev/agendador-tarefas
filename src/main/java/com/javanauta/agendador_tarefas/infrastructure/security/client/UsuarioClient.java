@@ -1,4 +1,4 @@
-package com.javanauta.agendador_tarefas.infrastructure.client;
+package com.javanauta.agendador_tarefas.infrastructure.security.client;
 
 import com.javanauta.agendador_tarefas.businnes.dto.UsuarioDTO;
 import org.springframework.cloud.openfeign.FeignClient;
