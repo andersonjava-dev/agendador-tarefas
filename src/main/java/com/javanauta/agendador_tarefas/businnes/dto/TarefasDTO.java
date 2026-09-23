@@ -5,6 +5,7 @@ import com.javanauta.agendador_tarefas.infrastructure.enums.StatusNotificacaoEnu
 import lombok.*;
 
 import java.time.LocalDateTime;
+
 @Getter
 @Setter
 @AllArgsConstructor
